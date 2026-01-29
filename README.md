@@ -1,1 +1,1 @@
-Docker Basic Projects 
+Docker basic projects
